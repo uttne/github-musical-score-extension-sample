@@ -1,0 +1,1 @@
+# score-github-extensions-sample
