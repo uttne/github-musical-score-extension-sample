@@ -118,7 +118,7 @@
       <note default-x="178.79" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
