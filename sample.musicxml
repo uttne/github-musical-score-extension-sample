@@ -205,7 +205,7 @@
       <note default-x="112.27" default-y="-40.00">
         <pitch>
           <step>E</step>
-          <octave>4</octave>
+          <octave>5</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
