@@ -183,7 +183,7 @@
       <note default-x="73.30" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <octave>4</octave>
+          <octave>3</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
@@ -205,7 +205,7 @@
       <note default-x="112.27" default-y="-40.00">
         <pitch>
           <step>E</step>
-          <octave>4</octave>
+          <octave>5</octave>
           </pitch>
         <duration>1</duration>
         <voice>1</voice>
